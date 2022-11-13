@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\bin\Debug\NebeskoTijelo_nasljedivanje.exe.config
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\bin\Debug\NebeskoTijelo_nasljedivanje.exe
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\bin\Debug\NebeskoTijelo_nasljedivanje.pdb
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\obj\Debug\NebeskoTijelo_nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\obj\Debug\NebeskoTijelo_nasljedivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\obj\Debug\NebeskoTijelo_nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\obj\Debug\NebeskoTijelo_nasljedivanje.exe
+C:\Users\linar\Documents\programiranje\NebeskoTijelo_nasljedivanje\NebeskoTijelo_nasljedivanje\obj\Debug\NebeskoTijelo_nasljedivanje.pdb
